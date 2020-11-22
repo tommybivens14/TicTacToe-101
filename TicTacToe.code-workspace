@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../ACA_web101_Mitchell_Bivens"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "TicTacToe-101"
+	}
+}
